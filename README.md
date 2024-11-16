@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MANSURIMDAJBULLAH
-- 👀 I’m interested in ... full stack web developmnt
+- 👀 I’m interested in ... full stack web developer
 - 🌱 I’m currently working in  ... parnets pvt ltd
 - 💞
 - 📫 How to reach me ...
